@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     viewBox="0 0 420 580" role="img" aria-labelledby="title desc">
+  <title id="title">SlowBooks Pro turtle waving</title>
+  <desc id="desc">A green turtle with a gold visor waves, his other hand on a blank ledger. Transparent background.</desc>
+  <!-- Steady Ledger. Drawn by Grok. Credit: Grok. https://x.ai -->
+<g id="turtle">
+
+        <g id="legs">
+          <line x1="172" y1="448" x2="164" y2="522" stroke="#3c8f34" stroke-width="34" stroke-linecap="round"/>
+          <line x1="248" y1="448" x2="256" y2="522" stroke="#3c8f34" stroke-width="34" stroke-linecap="round"/>
+          <ellipse cx="152" cy="530" rx="32" ry="14" fill="#1a5418"/>
+          <ellipse cx="272" cy="530" rx="32" ry="14" fill="#1a5418"/>
+        </g>
+
+        <g id="shell">
+          <ellipse cx="210" cy="332" rx="122" ry="138" fill="#1a5418"/>
+          <ellipse cx="210" cy="328" rx="112" ry="128" fill="#257321"/>
+          <path d="M210 214 V400" fill="none" stroke="#1a5418" stroke-width="3" stroke-linecap="round"/>
+          <path d="M112 286 Q210 308 308 286" fill="none" stroke="#1a5418" stroke-width="3" stroke-linecap="round"/>
+          <path d="M108 352 Q210 378 312 352" fill="none" stroke="#1a5418" stroke-width="3" stroke-linecap="round"/>
+          <g id="shell-page">
+            <rect x="192" y="228" width="36" height="44" rx="3" fill="#fbf7ef"/>
+            <path d="M198 240 H222 M198 248 H222 M198 256 H214" stroke="#336699" stroke-width="1.5" stroke-linecap="round"/>
+          </g>
+        </g>
+
+        <g id="plastron">
+          <ellipse cx="210" cy="386" rx="70" ry="72" fill="#f4efe4"/>
+        </g>
+
+        <g id="head">
+          <path d="M176 196 H244 V214 H176 Z" fill="#3c8f34"/>
+          <ellipse cx="210" cy="158" rx="74" ry="64" fill="#3c8f34"/>
+          <ellipse cx="210" cy="196" rx="22" ry="14" fill="#2c6d28"/>
+          
+        <g id="visor">
+          <path fill="#cc9933" d="M132 132
+            C160 112 250 112 278 132
+            L274 146
+            C246 132 164 132 136 146 Z"/>
+          <path fill="#cc9933" d="M118 144
+            C160 162 250 162 292 144
+            L292 156
+            C248 176 162 176 118 156 Z"/>
+          <path fill="#a67b22" d="M124 154
+            C164 170 246 170 286 154
+            L286 160
+            C246 176 164 176 124 160 Z"/>
+          <circle cx="140" cy="136" r="3" fill="#002244"/>
+          <circle cx="270" cy="136" r="3" fill="#002244"/>
+        </g>
+          
+          
+        <g id="eyes" fill="none" stroke="#002244" stroke-width="4.5" stroke-linecap="round">
+          <path d="M164 178 Q180 166 196 178"/>
+          <path d="M214 178 Q230 166 246 178"/>
+        </g>
+          <path id="mouth" d="M172 200 Q205 224 238 200" fill="none" stroke="#002244" stroke-width="4" stroke-linecap="round"/>
+        </g>
+
+        <g id="ledger" transform="translate(118,300) rotate(-6)">
+          <rect x="0" y="0" width="74" height="98" rx="4" fill="#fbf7ef" stroke="#003366" stroke-width="2.5"/>
+          <rect x="0" y="0" width="11" height="98" rx="3" fill="#003366"/>
+          <path d="M20 26 H62 M20 38 H62 M20 50 H62 M20 62 H54" stroke="#336699" stroke-width="1.6" stroke-linecap="round"/>
+          
+        </g>
+<g id="arm-left"><line x1="132" y1="290" x2="160" y2="348" stroke="#3c8f34" stroke-width="30" stroke-linecap="round"/><circle cx="168" cy="360" r="15" fill="#3c8f34"/></g>
+<g id="arm-right"><line x1="300" y1="270" x2="332" y2="156" stroke="#3c8f34" stroke-width="30" stroke-linecap="round"/><circle cx="338" cy="140" r="15" fill="#3c8f34"/></g>
+</g>
+</svg>

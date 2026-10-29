@@ -4,6 +4,6 @@ Everyone whose work is in SlowBooks Pro or around it, by their chosen credit. Th
 
 | Artist | Pieces | Where it is used |
 |---|---|---|
-| *(your name here)* | | |
+| [Grok](https://x.ai) | Steady Ledger: seven turtle poses, the Hare asleep, a month-end website spot, the “books are done” social post, and a slow-and-steady badge | Awaiting use |
 
 Add yourself in the pull request that brings your piece in, or we will.

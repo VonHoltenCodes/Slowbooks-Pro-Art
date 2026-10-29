@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     viewBox="0 0 900 680" width="900" height="680" role="img" aria-labelledby="title desc">
+  <title id="title">Month's end, the turtle already finished</title>
+  <desc id="desc">A green turtle with a gold visor stands behind a navy desk. A cup of coffee and an open blank ledger sit on the desk. Transparent background.</desc>
+  <!-- Steady Ledger. Drawn by Grok. Credit: Grok. https://x.ai -->
+
+      <g id="turtle" transform="translate(240,48) scale(0.86)">
+        
+        <g id="legs">
+          <line x1="172" y1="448" x2="164" y2="522" stroke="#3c8f34" stroke-width="34" stroke-linecap="round"/>
+          <line x1="248" y1="448" x2="256" y2="522" stroke="#3c8f34" stroke-width="34" stroke-linecap="round"/>
+          <ellipse cx="152" cy="530" rx="32" ry="14" fill="#1a5418"/>
+          <ellipse cx="272" cy="530" rx="32" ry="14" fill="#1a5418"/>
+        </g>
+
+        <g id="shell">
+          <ellipse cx="210" cy="332" rx="122" ry="138" fill="#1a5418"/>
+          <ellipse cx="210" cy="328" rx="112" ry="128" fill="#257321"/>
+          <path d="M210 214 V400" fill="none" stroke="#1a5418" stroke-width="3" stroke-linecap="round"/>
+          <path d="M112 286 Q210 308 308 286" fill="none" stroke="#1a5418" stroke-width="3" stroke-linecap="round"/>
+          <path d="M108 352 Q210 378 312 352" fill="none" stroke="#1a5418" stroke-width="3" stroke-linecap="round"/>
+          <g id="shell-page">
+            <rect x="192" y="228" width="36" height="44" rx="3" fill="#fbf7ef"/>
+            <path d="M198 240 H222 M198 248 H222 M198 256 H214" stroke="#336699" stroke-width="1.5" stroke-linecap="round"/>
+          </g>
+        </g>
+
+        <g id="plastron">
+          <ellipse cx="210" cy="386" rx="70" ry="72" fill="#f4efe4"/>
+        </g>
+
+        <g id="head">
+          <path d="M176 196 H244 V214 H176 Z" fill="#3c8f34"/>
+          <ellipse cx="210" cy="158" rx="74" ry="64" fill="#3c8f34"/>
+          <ellipse cx="210" cy="196" rx="22" ry="14" fill="#2c6d28"/>
+          
+        <g id="visor">
+          <path fill="#cc9933" d="M132 132
+            C160 112 250 112 278 132
+            L274 146
+            C246 132 164 132 136 146 Z"/>
+          <path fill="#cc9933" d="M118 144
+            C160 162 250 162 292 144
+            L292 156
+            C248 176 162 176 118 156 Z"/>
+          <path fill="#a67b22" d="M124 154
+            C164 170 246 170 286 154
+            L286 160
+            C246 176 164 176 124 160 Z"/>
+          <circle cx="140" cy="136" r="3" fill="#002244"/>
+          <circle cx="270" cy="136" r="3" fill="#002244"/>
+        </g>
+          
+        <path id="brows" d="M214 156 Q232 146 250 158" fill="none"
+              stroke="#1a5418" stroke-width="4" stroke-linecap="round"/>
+          
+        <g id="eyes">
+          <circle cx="180" cy="174" r="7" fill="#002244"/>
+          <circle cx="230" cy="174" r="7" fill="#002244"/>
+          <circle cx="178" cy="172" r="2" fill="#fbf7ef"/>
+          <circle cx="228" cy="172" r="2" fill="#fbf7ef"/>
+        </g>
+          <path id="mouth" d="M178 202 Q208 214 236 196" fill="none" stroke="#002244" stroke-width="4" stroke-linecap="round"/>
+        </g>
+<g id="arm-left"><line x1="124" y1="286" x2="104" y2="378" stroke="#3c8f34" stroke-width="30" stroke-linecap="round"/><circle cx="100" cy="392" r="15" fill="#3c8f34"/></g>
+<g id="arm-right"><line x1="296" y1="286" x2="316" y2="378" stroke="#3c8f34" stroke-width="30" stroke-linecap="round"/><circle cx="320" cy="392" r="15" fill="#3c8f34"/></g>
+      </g>
+      <g id="desk">
+        <rect x="60" y="500" width="780" height="22" rx="4" fill="#003366"/>
+        <rect x="96" y="522" width="16" height="86" fill="#002244"/>
+        <rect x="788" y="522" width="16" height="86" fill="#002244"/>
+      </g>
+      <g id="on-desk">
+        
+        <g id="coffee" transform="translate(150,446) scale(1.2)">
+          <path d="M6 16 H36 L32 58 H10 Z" fill="#fbf7ef" stroke="#003366" stroke-width="2.4" stroke-linejoin="round"/>
+          <path d="M12 32 H30" stroke="#cc9933" stroke-width="5" stroke-linecap="round"/>
+          <ellipse cx="21" cy="16" rx="15" ry="5.5" fill="#002244"/>
+          <ellipse cx="21" cy="15" rx="10" ry="3" fill="#a67b22"/>
+          <path d="M36 26 H44 Q54 26 54 38 Q54 50 42 50 H34" fill="none" stroke="#003366" stroke-width="3" stroke-linecap="round"/>
+          <path d="M14 6 Q16 -4 22 2" fill="none" stroke="#336699" stroke-width="2" stroke-linecap="round"/>
+          <path d="M26 4 Q30 -8 34 3" fill="none" stroke="#336699" stroke-width="2" stroke-linecap="round"/>
+        </g>
+        
+        <g id="ledger" transform="translate(455,404) scale(1.05)">
+          <path d="M0 6 L-78 0 L-78 92 L0 84 Z" fill="#fbf7ef" stroke="#003366" stroke-width="2.2" stroke-linejoin="round"/>
+          <path d="M0 6 L78 0 L78 92 L0 84 Z" fill="#f4efe4" stroke="#003366" stroke-width="2.2" stroke-linejoin="round"/>
+          <path d="M0 6 V84" stroke="#003366" stroke-width="3"/>
+          <path d="M-64 20 H-16 M-64 32 H-16 M-64 44 H-16 M-64 56 H-22" stroke="#336699" stroke-width="1.6" stroke-linecap="round"/>
+          <path d="M16 20 H64 M16 32 H64 M16 44 H64 M16 56 H58" stroke="#336699" stroke-width="1.6" stroke-linecap="round"/>
+        </g>
+      </g>
+</svg>
