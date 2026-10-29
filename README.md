@@ -17,7 +17,7 @@ Everything is **turtle-themed**. Slow and steady, careful, honest, unhurried. Th
 
 ## How it works
 
-1. **Open an issue** with the [art submission form](../../issues/new?template=art-submission.yml). Attach the files or link to them. Anyone can.
+1. **Open an issue** with the [art submission form](https://github.com/VonHoltenCodes/Slowbooks-Pro-Art/issues/new?template=art-submission.yml). Attach the files or link to them. Anyone can.
 2. **We look at it.** If it is a fit, we move it to a pull request (or ask you to open one) into the right folder under `art/`. We may ask for adjustments: a size, a colour, a crop, a different pose.
 3. **It gets used,** in the app, on the website, in a video, on social, or several of those. The issue gets a label saying where.
 4. **You get featured:** [ARTISTS.md](ARTISTS.md) here, the About dialog in the app, the website's credits, and the posts your piece appears in.
@@ -36,6 +36,6 @@ The rest of the house rules are in [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md).
 - Keep your source files (SVG, AI, PSD, project files). We prefer vector for anything that will be resized.
 - Name yourself the way you want to be credited: a name, a handle, a studio, a link. Or none.
 - Tell us if any AI tool had a hand in it. It is not a mark against the piece; it is something we need to know.
-- Ask before you spend a weekend on something: an [idea issue](../../issues/new?template=idea.yml) takes two minutes and tells you whether we would use it.
+- Ask before you spend a weekend on something: an [idea issue](https://github.com/VonHoltenCodes/Slowbooks-Pro-Art/issues/new?template=idea.yml) takes two minutes and tells you whether we would use it.
 
 SlowBooks Pro is free, source-available bookkeeping software. The product lives at [VonHoltenCodes/SlowBooks-Pro-2026](https://github.com/VonHoltenCodes/SlowBooks-Pro-2026).

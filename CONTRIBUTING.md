@@ -4,8 +4,8 @@ Read [README.md](README.md) first for the deal, and [LICENSE.md](LICENSE.md) for
 
 ## The path of a piece
 
-1. **An idea, if you want a steer first.** Open an [idea issue](../../issues/new?template=idea.yml): a sentence or two, a sketch if you have one. We answer with "yes, go", "yes, but …" or "not for us". Two minutes now saves a weekend later.
-2. **A submission.** Open an [art submission](../../issues/new?template=art-submission.yml). Pick the avenue, describe the piece, attach the files (or link to them when they are large), say how you want to be credited, and answer the three questions about origin. One piece or one set per issue.
+1. **An idea, if you want a steer first.** Open an [idea issue](https://github.com/VonHoltenCodes/Slowbooks-Pro-Art/issues/new?template=idea.yml): a sentence or two, a sketch if you have one. We answer with "yes, go", "yes, but …" or "not for us". Two minutes now saves a weekend later.
+2. **A submission.** Open an [art submission](https://github.com/VonHoltenCodes/Slowbooks-Pro-Art/issues/new?template=art-submission.yml). Pick the avenue, describe the piece, attach the files (or link to them when they are large), say how you want to be credited, and answer the three questions about origin. One piece or one set per issue.
 3. **Review.** We look at every submission. The possible answers:
    - `accepted` — we move it into the repo (a pull request, by us or by you) and it is ready to be used.
    - `needs-changes` — we would use it with an adjustment, and the comment says what: a size, a colour, a crop, a pose, a word. Reply on the issue or push to the pull request.
@@ -44,4 +44,4 @@ Say so in the submission if any AI tool took part: generation, upscaling, in-pai
 
 ## Questions
 
-Open an issue with the `idea` template, or use [Discussions](../../discussions).
+Open an issue with the `idea` template, or use [Discussions](https://github.com/VonHoltenCodes/Slowbooks-Pro-Art/discussions).
