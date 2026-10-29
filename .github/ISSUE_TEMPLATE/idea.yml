@@ -1,0 +1,24 @@
+name: Idea
+description: Ask before you spend the weekend. A sentence or two and a sketch if you have one.
+title: "[Idea] "
+labels: ["idea"]
+body:
+  - type: dropdown
+    id: avenue
+    attributes:
+      label: Avenue
+      options:
+        - Video
+        - Social media post
+        - App icon
+        - Website, marketing or mascot art
+        - Not sure
+    validations:
+      required: true
+  - type: textarea
+    id: idea
+    attributes:
+      label: The idea
+      description: What you want to make, in a few lines. A sketch, a frame or a reference is welcome. We answer with "go", "go, but …" or "not for us", and we will confirm anything about what the product does.
+    validations:
+      required: true

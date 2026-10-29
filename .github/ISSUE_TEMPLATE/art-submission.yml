@@ -1,0 +1,60 @@
+name: Art submission
+description: Offer a piece (or a set) for SlowBooks Pro. Contributing means you accept LICENSE.md.
+title: "[Art] "
+labels: ["submission"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for making something for the turtle. One piece or one set per issue. By submitting you accept the [contribution terms](../blob/main/LICENSE.md): you keep ownership, SlowBooks Pro may use the piece for good, you get credited.
+  - type: dropdown
+    id: avenue
+    attributes:
+      label: Avenue
+      options:
+        - Video
+        - Social media post
+        - App icon
+        - Website, marketing or mascot art
+    validations:
+      required: true
+  - type: textarea
+    id: piece
+    attributes:
+      label: The piece
+      description: What it is, where you imagine it used, and anything we should know about it. Attach the files here (drag them in) or paste links to them.
+    validations:
+      required: true
+  - type: input
+    id: credit
+    attributes:
+      label: Credit line
+      description: The name, handle, studio or link you want on it. Write "no credit" if you prefer none.
+    validations:
+      required: true
+  - type: input
+    id: alt
+    attributes:
+      label: Alt text
+      description: One sentence saying what is in the image, for the web and for social. (Videos: a one-line description.)
+  - type: dropdown
+    id: ai
+    attributes:
+      label: Did an AI tool take part?
+      description: Generation, upscaling, in-painting, a reference it was built from. A disclosure, not a disqualification.
+      options:
+        - "No"
+        - "Yes (say how in the piece's description)"
+    validations:
+      required: true
+  - type: checkboxes
+    id: promises
+    attributes:
+      label: The three things we need to be true
+      options:
+        - label: This is my own work, or I hold every right needed for SlowBooks Pro to use it as LICENSE.md describes. No one else's logo, character, photo, font or music without rights that cover SlowBooks Pro.
+          required: true
+        - label: No real product other than SlowBooks Pro is named, shown or hinted at; the Hare is the only rival. No real customer, company, amount or person appears.
+          required: true
+        - label: I am 18 or older, or a parent or guardian has agreed to the terms for me. Anyone who appears or is heard in the piece has agreed to its use.
+          required: true
