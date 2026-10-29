@@ -30,6 +30,7 @@ Pull requests straight in, without an issue, are fine too; the submission form's
 - **Clean.** Nothing vulgar, hateful, sexual or demeaning. Nothing that mocks a real person. No politics, no religion.
 - **Honest about the product.** A claim in a video or a post has to be true of SlowBooks Pro as it ships. If you are not sure, ask; we will tell you what it does.
 - **Yours.** Your own work, or work you hold every right to. No one else's logo, character, photo, font or music without rights that cover us.
+- **From someone 18 or older.** That is the one hard line on who can submit.
 - **Free of the Hare's maker.** The Hare, a rabbit, is the only rival who appears, ever. No other product's name, logo, screenshots or trade dress, not even as a joke, not even obscured.
 - **Free of real books.** Never real customer data, real company names, real amounts, real people's names. Make it up, obviously.
 - **Accessible where it is read:** text at a readable size with enough contrast, no flashing, an alt-text line for any image meant for the web.
@@ -38,9 +39,11 @@ Pull requests straight in, without an issue, are fine too; the submission form's
 
 Tell us the credit line you want: a name, a handle, a studio, a link, or "no credit". We use it as given. You can change it later by commenting on your issue.
 
+And it stays yours. Sell it, print it, license it, hang it in a gallery; we only want the right to use it.
+
 ## AI tools
 
-Say so in the submission if any AI tool took part: generation, upscaling, in-painting, a reference it was built from. It is a disclosure, not a disqualification; we decide piece by piece, and a piece that is only a prompt is unlikely to be used.
+AI-made and AI-assisted art is warmly welcome: generation, upscaling, in-painting, a reference it was built from, all of it. Say which tools helped, because we like to know and because the tool's terms have to let you license the output to us (most do). That is the whole of it.
 
 ## Questions
 

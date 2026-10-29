@@ -3,7 +3,7 @@
 Illustrations for slowbookspro.com, flyers and handouts, stickers and badges, and the turtle itself in new poses and expressions.
 
 ## Mascot art
-- Keep the turtle recognisable: green shell, visor, upright, the same proportions as the reference. New poses and expressions are welcome; a new character design is a conversation first.
+- He is Aesop's tortoise, drawn your way. Keep him a turtle, keep him calm, keep him kind; green, a gold visor and a ledger are the house look, not a rule. New poses, expressions and styles are welcome.
 - Poses we can always use: pointing at something, peeking in from an edge, celebrating, thinking, waving, carrying a box of receipts, wearing the construction hard hat, holding a coffee at the end of the month.
 - Expressions: happy, focused, smug, surprised, wink, and the one you think is missing.
 - **Vector** (SVG) so it can be resized and recoloured. If you work in raster, 4000 pixels on the long side with transparency.

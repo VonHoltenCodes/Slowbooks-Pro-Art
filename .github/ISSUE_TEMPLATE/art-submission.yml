@@ -6,7 +6,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thanks for making something for the turtle. One piece or one set per issue. By submitting you accept the [contribution terms](https://github.com/VonHoltenCodes/Slowbooks-Pro-Art/blob/main/LICENSE.md): you keep ownership, SlowBooks Pro may use the piece for good, you get credited.
+        Thanks for making something for the turtle. One piece or one set per issue. By submitting you accept the [contribution terms](https://github.com/VonHoltenCodes/Slowbooks-Pro-Art/blob/main/LICENSE.md): you keep ownership and can sell it anywhere, SlowBooks Pro may use the piece for good, you get credited. You must be 18 or older to submit.
   - type: dropdown
     id: avenue
     attributes:
@@ -37,16 +37,11 @@ body:
     attributes:
       label: Alt text
       description: "One sentence saying what is in the image, for the web and for social. For a video, a one-line description."
-  - type: dropdown
-    id: ai
+  - type: input
+    id: tools
     attributes:
-      label: Did an AI tool take part?
-      description: Generation, upscaling, in-painting, a reference it was built from. A disclosure, not a disqualification.
-      options:
-        - "No"
-        - "Yes (say how in the piece's description)"
-    validations:
-      required: true
+      label: Tools, including AI
+      description: "AI-made and AI-assisted art is welcome. Which tools helped, if any? We like to know."
   - type: checkboxes
     id: promises
     attributes:
@@ -56,5 +51,5 @@ body:
           required: true
         - label: No real product other than SlowBooks Pro is named, shown or hinted at; the Hare is the only rival. No real customer, company, amount or person appears.
           required: true
-        - label: I am 18 or older, or a parent or guardian has agreed to the terms for me. Anyone who appears or is heard in the piece has agreed to its use.
+        - label: I am 18 or older. Anyone who appears or is heard in the piece has agreed to its use.
           required: true

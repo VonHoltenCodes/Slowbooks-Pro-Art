@@ -8,9 +8,11 @@ SlowBooks Pro is bookkeeping done carefully. The turtle is the point: slow and s
 
 ## The characters
 
-**The turtle** is the mascot. Green shell, a visor, a ledger or a pencil as a prop, standing upright on two legs. Expressions: happy, focused, smug, surprised, wink. Poses so far: standing, pointing, peeking, celebrating, running (slowly). A construction hard hat for the construction edition. The turtle appears in empty states, onboarding, release notes, docs and social. **The turtle never appears on anything a customer or a tax authority receives:** no invoices, no statements, no tax forms. A reference sheet with the construction grid, poses and expressions is in `art/mascot/` once published; until then, the poses in the product's release notes and on slowbookspro.com are the reference.
+They are the two from Aesop's fable, *The Tortoise and the Hare*. That is the whole brief.
 
-**The Hare** is the rival, a rabbit: fast, flashy, forgetful, always rushing off somewhere. The Hare is the only competitor who ever appears, and only as the Hare. **Never name, show or hint at any real product.** No logos, no colour schemes that mean someone else, no "you know who". The joke is the fable, not a company.
+**The turtle** is the tortoise who wins. Slow, steady, careful, unhurried, and he gets there. Draw him your way: your line, your proportions, your face. The house version today is a green turtle with a gold visor and a ledger, standing upright, seen in the product's release notes and on slowbookspro.com; match its spirit, not its outlines. Expressions we use: happy, focused, smug, surprised, wink. Poses we use: standing, pointing, peeking, celebrating, running (slowly), and a construction hard hat for the construction edition. The turtle appears in empty states, onboarding, release notes, docs and social. **The turtle never appears on anything a customer or a tax authority receives:** no invoices, no statements, no tax forms. A reference sheet goes in `art/mascot/` once one is final.
+
+**The Hare** is the rival from the same fable, a rabbit: fast, flashy, forgetful, always rushing off somewhere, asleep under a tree when it counts. The Hare is the only competitor who ever appears, and only as the Hare. **Never name, show or hint at any real product.** No logos, no colour schemes that mean someone else, no "you know who". The joke is the fable, not a company.
 
 ## Palette
 

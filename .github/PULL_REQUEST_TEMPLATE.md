@@ -8,10 +8,10 @@
 
 **Alt text:** 
 
-**AI tools:** none / which, and how
+**Tools, including AI (welcome):** 
 
 - [ ] My own work, or I hold every right needed for SlowBooks Pro to use it as LICENSE.md describes.
 - [ ] No real product other than SlowBooks Pro is named, shown or hinted at; no real customer, company, amount or person.
-- [ ] I am 18 or older, or a parent or guardian has agreed to the terms for me. Anyone who appears or is heard has agreed to its use.
+- [ ] I am 18 or older. Anyone who appears or is heard has agreed to its use.
 
 By opening this pull request I accept the contribution terms in LICENSE.md.
