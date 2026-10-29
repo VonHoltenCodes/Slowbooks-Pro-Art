@@ -39,4 +39,4 @@ The rest of the house rules are in [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md).
 - AI-made and AI-assisted art is warmly welcome. Say which tools you used; we like to know, and it changes nothing about how the piece is judged.
 - Ask before you spend a weekend on something: an [idea issue](https://github.com/VonHoltenCodes/Slowbooks-Pro-Art/issues/new?template=idea.yml) takes two minutes and tells you whether we would use it.
 
-SlowBooks Pro is free, source-available bookkeeping software. The product lives at [VonHoltenCodes/SlowBooks-Pro-2026](https://github.com/VonHoltenCodes/SlowBooks-Pro-2026).
+SlowBooks Pro is free, source-available bookkeeping software. The product lives at [VonHoltenCodes/SlowBooks-Pro-2026](https://github.com/VonHoltenCodes/SlowBooks-Pro-2026); the call for art is [discussion #636](https://github.com/VonHoltenCodes/SlowBooks-Pro-2026/discussions/636) there.

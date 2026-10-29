@@ -3,6 +3,9 @@ contact_links:
   - name: Questions and chat
     url: https://github.com/VonHoltenCodes/Slowbooks-Pro-Art/discussions
     about: Anything that is not a submission or an idea.
+  - name: The call for art
+    url: https://github.com/VonHoltenCodes/SlowBooks-Pro-2026/discussions/636
+    about: The announcement on the product's discussions, and the thread to talk in.
   - name: The product itself
     url: https://github.com/VonHoltenCodes/SlowBooks-Pro-2026/issues
     about: Bugs and feature requests for SlowBooks Pro go to the product's repository.
